@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "EMI_Calci(new1)",
+    "slug": "EMI_Calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aiyush99.EMICalculator"
+    },
+    "android": {
+      "package": "com.aiyush99.EMICalculator"
+    },
+    "description": ""
+  }
+}
